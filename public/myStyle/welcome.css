@@ -1,0 +1,43 @@
+body{
+    background-image: url("/imgs/stormy.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family:   cursive ;
+    padding-top:3%;
+}
+.container{
+    background-color:rgba(0, 0, 0, .4);
+    border-radius: 30px;
+    padding-top: 20px;
+
+}
+.cont1{
+    padding-left: 15%;
+}
+.pad{
+    padding: 20px;;
+}
+.cont2{
+    padding-left: 20%;
+    padding-top: 3%;
+}
+.degreeThing{
+    font-size: 100px;
+}
+.degreeShit{
+    font-size: 50px;
+}
+.cityInput{
+    background-color: transparent;
+    color: white;
+    border: black solid 1px;
+    border-radius: 10px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+.weatherIcon{
+    width: 100px;
+    height: 100px;
+}
